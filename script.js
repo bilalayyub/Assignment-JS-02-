@@ -127,28 +127,8 @@ function sumMul() {
     }
    
 }
-// //  for divide two Numbers code 
-// const div = document.getElementById("sumDiv").onclick
-// function sumDiv() {
-//     let a = 45 ;
-//     let b = 3 ;
-//     let c = a/b;
-//     let d = document.getElementById("orginal-content");
-//     d.innerHTML = "let a = 45 </br> let b = 3 </br> let c = a/b =135";
-//     d.style.height = "fit-content";
-//     let e = document.getElementById("output-result");
-//     e.innerHTML = c;
-// }
-// // // for calculate two Numbers code 
-// const calculate = document.getElementById("calNum").onclick
-// function calNum() {
-//  let d = document.getElementById("orginal-content");
-//  d.innerHTML = "36/6*2+2**4+(7+4)";
-//  let c = 6/6*2+2**4+(7+4);
-//  let e = document.getElementById("output-result");
-//  e.innerHTML = c ;
-//  e.style.textAlign = "center";
-// }
+
+
 // // for clear statements code
 const clrs = document.getElementById("clr").onclick
 function clr() {
